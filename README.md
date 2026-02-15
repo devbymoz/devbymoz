@@ -1,16 +1,29 @@
-## Hi there 👋
+# Mohamed Zaoui 👋 (devbymoz)
 
-<!--
-**devbymoz/devbymoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Full-Stack Angular / .NET, à l’aise sur le front comme sur le back, avec une vraie sensibilité UX/UI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Compétences
+
+**Frontend :** Angular • TypeScript • Tailwind • NgRx • RxJS • SASS  
+**Backend :** C# • .NET • SQL • MongoDB • Elasticsearch • Redis • MassTransit (RabbitMQ) • API REST  
+**Outils & DevOps :** GitHub • Docker • Azure DevOps • GitHub Actions  
+
+---
+
+## 🚀 Projet principal
+
+### [Kaaard](https://kaaard.com/fr)  
+Application pour étudiants visant à simplifier l’organisation des cours et révisions.  
+- Stack : Angular • .NET • MongoDB • Elasticsearch • Redis • RabbitMQ  
+- Objectif : créer un outil incontournable pour les étudiants  
+- Ouvert à la collaboration et aux échanges 💬
+
+---
+
+
+## 📫 Contact
+
+- LinkedIn : [Mohamed Zaoui](https://www.linkedin.com/in/mohamed-zaoui-developpeur-dotnet-angular)  
+- GitHub : [devbymoz](https://github.com/devbymoz)  
