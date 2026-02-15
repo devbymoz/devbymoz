@@ -1,6 +1,6 @@
-# Hey👋, je suis Mohamed Zaoui
+# Hey 👋
 
-Développeur Full-Stack Angular / .NET, à l’aise sur le front comme sur le back, avec une vraie sensibilité UX/UI.
+Je suis Développeur Full-Stack Angular / .NET, à l’aise sur le front comme sur le back, avec une vraie sensibilité UX/UI.
 
 ---
 
