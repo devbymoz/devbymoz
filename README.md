@@ -16,7 +16,7 @@ Je suis Développeur Full-Stack Angular / .NET, à l’aise sur le front comme s
 
 ### [Kaaard](https://kaaard.com/fr)  
 Application pour étudiants visant à simplifier l’organisation des cours et révisions.  
-- Stack : Angular • .NET • MongoDB • Elasticsearch • Redis • RabbitMQ  
+- Stack : Angular • .NET • Postgres • MongoDB • Elasticsearch • Redis • RabbitMQ  
 - Objectif : créer un outil incontournable pour les étudiants  
 - Ouvert à la collaboration et aux échanges 💬
 
